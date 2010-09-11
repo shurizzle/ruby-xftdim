@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
     s.version       = '1.0.0'
     s.author        = 'shura'
     s.email         = 'shura1991@gmail.com'
-    s.homepage      = 'http://github.com/shurizzle/xftdim'
+    s.homepage      = 'http://github.com/shurizzle/ruby-xftdim'
     s.platform      = Gem::Platform::RUBY
     s.summary       = 'Get dimensions of string for a xft-font'
     s.description   = 'Add a method to String:Class to get width and height of text for given string and xft-font'
