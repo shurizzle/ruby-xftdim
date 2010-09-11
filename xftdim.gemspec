@@ -2,7 +2,7 @@ require 'rubygems'
 
 Gem::Specification.new do |s|
     s.name          = 'xftdim'
-    s.version       = '1.0.0'
+    s.version       = '0.0.1'
     s.author        = 'shura'
     s.email         = 'shura1991@gmail.com'
     s.homepage      = 'http://github.com/shurizzle/ruby-xftdim'
